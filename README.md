@@ -164,12 +164,7 @@ Retrieves information using the You.com Search Tool.
 
 # 📸 Demo
 
-<img width="100%" src="assets/demo.gif">
-
-or
-
-<img width="100%" src="assets/screenshot.png">
-
+Streamlit -- [https://ai-multi-agent.streamlit.app/]
 ---
 
 # 📌 Future Improvements
